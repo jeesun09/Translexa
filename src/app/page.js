@@ -87,10 +87,10 @@ export default function Home() {
       <div className="relative h-screen flex justify-center items-center">
         <div className="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-24">
           <div className="text-center">
-            <h1 className="text-4xl sm:text-6xl font-bold text-neutral-700">
-              Translexa
+            <h1 className="text-4xl sm:text-6xl font-bold text-neutral-700 dark:text-neutral-50">
+              Translexaa
             </h1>
-            <p className="mt-3 text-neutral-800">
+            <p className="mt-3 text-neutral-800 dark:text-neutral-50">
               Need a translation? Translexa has got you covered. Translate and
               hear any language in real-time with our smart AI.
             </p>
