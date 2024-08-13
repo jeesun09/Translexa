@@ -3,7 +3,6 @@
 import React, { useEffect, useState } from 'react'
 import { FaFacebook, FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa';
 import { FaXTwitter } from "react-icons/fa6";
-import { SiGeeksforgeeks, SiLeetcode } from "react-icons/si";
 
 
 const Footer = () => {
