@@ -97,7 +97,7 @@ export default function Home() {
 
             <div className="mt-7 sm:mt-12 mx-auto max-w-3xl relative">
               <div className="grid gap-4 md:grid-cols-2 grid-cols-1">
-                <div className="flex flex-col space-x-3 p-3 border rounded-lg bg-neutral-700 shadow-gray-950">
+                <div className="flex flex-col space-x-3 p-3 border rounded-lg bg-neutral-700 shadow-gray-950 dark:text-neutral-50">
                   <TextArea
                     id="source-language"
                     value={sourceText}
